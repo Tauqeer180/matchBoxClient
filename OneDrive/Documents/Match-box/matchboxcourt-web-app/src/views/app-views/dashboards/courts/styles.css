@@ -1,0 +1,128 @@
+.court-modal-div {
+    width: 50vw;
+}
+
+.react-responsive-modal-modal {
+    max-width: 100% !important;
+}
+
+.court-img {
+    height: 200px;
+    width: 100%;
+}
+
+.image-title {
+    font-size: 24px;
+    margin-top: 8px;
+    color: #2B2B2B;
+}
+
+.action-view-container {
+    right: 0;
+    top: 10;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+}
+
+.action-img-view {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    cursor: pointer;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    background-color: #2B2B2B;
+}
+
+.action-img {
+    width: 30px;
+    height: 30px;
+}
+
+.sports-view {
+    overflow: auto;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    padding-right: 10px;
+}
+
+
+
+.day-item {
+    color: #284053;
+    padding: 5px 10px;
+    display: flex; 
+    cursor: pointer; 
+    margin-top: 5px;
+    border-radius: 10px; 
+    align-items: center;
+    justify-content: center; 
+    border: 2px #DEDEDE solid; 
+}
+
+.active-day-item {
+    display: flex; 
+    color: #FFF;
+    padding: 5px 10px;
+    cursor: pointer;  
+    margin-top: 5px;
+    border-radius: 10px; 
+    align-items: center;
+    justify-content: center; 
+    border: 2px #DEDEDE solid; 
+    background-color: #284053;
+}
+
+.court-search-view {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.court-search-input {
+    height: 56px;
+    width: 350px;
+}
+
+@media screen and (max-width: 1010px) {
+    .court-modal-div {
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .court-modal-div {
+        width: 80vw !important;
+    }
+
+    .court-img {
+        height: 150px;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 465px) {
+    .court-search-view {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; 
+        justify-content: space-between;
+    }
+
+    .add-court-btn {
+        margin-top: 10px;
+    }
+    
+
+    .court-search-input {
+        height: 56px;
+        width: 320px;
+    }
+}
