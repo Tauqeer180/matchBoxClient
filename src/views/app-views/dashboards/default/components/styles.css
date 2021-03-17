@@ -1,0 +1,83 @@
+.modal-div {
+    width: 30vw;
+}
+
+.sport-item {
+    cursor: pointer; 
+    width: 70px; 
+    height: 50px; 
+    border-radius: 10px; 
+    border: 1px #7f7f7f solid; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.sm-sport-item {
+    cursor: pointer; 
+    width: 45px; 
+    height: 35px; 
+    border-radius: 10px; 
+    border: 1px #7f7f7f solid; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.md-sport-item {
+    cursor: pointer; 
+    width: 55px; 
+    height: 45px; 
+    border-radius: 10px; 
+    border: 1px #7f7f7f solid; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.city-item {
+    color: #283956;
+    padding: 5px 10px;
+    display: flex; 
+    cursor: pointer; 
+    margin-top: 5px;
+    border-radius: 10px; 
+    align-items: center;
+    justify-content: center; 
+    border: 2px #DEDEDE solid; 
+}
+
+.active-city-item {
+    display: flex; 
+    color: #FFF;
+    padding: 5px 10px;
+    cursor: pointer;  
+    margin-top: 5px;
+    border-radius: 10px; 
+    align-items: center;
+    justify-content: center; 
+    border: 2px #DEDEDE solid; 
+    background-color: rgb(139, 160, 133);
+}
+
+.filter-title {
+    color: #283956;
+    font-weight: bold;
+}
+
+.price-range {
+    color: rgb(139, 160, 133);
+    font-weight: bold;
+}
+
+@media screen and (max-width: 1010px) {
+    .modal-div {
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .modal-div {
+        width: 80vw;
+    }
+}

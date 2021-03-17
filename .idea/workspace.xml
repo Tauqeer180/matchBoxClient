@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60a5964f-7d85-4046-8797-bb337af85307" name="Default Changelist" comment="language changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logoMatchbox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/others/bgLogin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout-components/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout-components/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/auth-views/authentication/login-1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/auth-views/authentication/login-1/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oIS8bQHYyAicQRFAYagNeyvqTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img/others" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/src/views/app-views/dashboards" />
+      <recent name="$PROJECT_DIR$/src/views/app-views/components" />
+      <recent name="$PROJECT_DIR$/public/img/others" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60a5964f-7d85-4046-8797-bb337af85307" name="Default Changelist" comment="" />
+      <created>1612972453653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612972453653</updated>
+      <workItem from="1612972455013" duration="9201000" />
+      <workItem from="1613026283373" duration="2329000" />
+      <workItem from="1613230299627" duration="1503000" />
+      <workItem from="1613280080833" duration="17894000" />
+      <workItem from="1613366499617" duration="6238000" />
+      <workItem from="1613391306675" duration="111000" />
+      <workItem from="1613404491769" duration="8793000" />
+      <workItem from="1613491136827" duration="7467000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding app in github">
+      <created>1612977537417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612977537417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding app in github">
+      <created>1612982073320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612982073320</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding app in github">
+      <created>1612983148885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612983148885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding app in github">
+      <created>1612983622026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612983622027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding app in github">
+      <created>1612984607458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612984607458</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding app in github">
+      <created>1612985532384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612985532384</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed theme settings">
+      <created>1613050423400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613050423400</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed theme settings">
+      <created>1613232014591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613232014591</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added widget">
+      <created>1613286389462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613286389462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added widget">
+      <created>1613291828051</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613291828052</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added widget">
+      <created>1613319938130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613319938130</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added widget">
+      <created>1613320577834</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613320577834</updated>
+    </task>
+    <task id="LOCAL-00013" summary="language changes">
+      <created>1613369064201</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613369064201</updated>
+    </task>
+    <task id="LOCAL-00014" summary="language changes">
+      <created>1613369116259</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613369116260</updated>
+    </task>
+    <task id="LOCAL-00015" summary="language changes">
+      <created>1613372440965</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613372440965</updated>
+    </task>
+    <task id="LOCAL-00016" summary="language changes">
+      <created>1613372545787</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613372545787</updated>
+    </task>
+    <task id="LOCAL-00017" summary="language changes">
+      <created>1613373116319</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613373116319</updated>
+    </task>
+    <task id="LOCAL-00018" summary="language changes">
+      <created>1613412079512</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412079512</updated>
+    </task>
+    <task id="LOCAL-00019" summary="language changes">
+      <created>1613412188562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412188562</updated>
+    </task>
+    <task id="LOCAL-00020" summary="language changes">
+      <created>1613412635963</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412635963</updated>
+    </task>
+    <task id="LOCAL-00021" summary="language changes">
+      <created>1613412940206</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412940206</updated>
+    </task>
+    <task id="LOCAL-00022" summary="language changes">
+      <created>1613413474677</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1613413474677</updated>
+    </task>
+    <task id="LOCAL-00023" summary="language changes">
+      <created>1613413786439</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1613413786439</updated>
+    </task>
+    <task id="LOCAL-00024" summary="language changes">
+      <created>1613452227044</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613452227044</updated>
+    </task>
+    <task id="LOCAL-00025" summary="language changes">
+      <created>1613527665918</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613527665922</updated>
+    </task>
+    <task id="LOCAL-00026" summary="language changes">
+      <created>1613527830596</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1613527830596</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding app in github" />
+    <MESSAGE value="Changed theme settings" />
+    <MESSAGE value="added widget" />
+    <MESSAGE value="language changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="language changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613054656921">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="391" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1613054656921" />
+    <state x="128" y="69" key="MergeDialog" timestamp="1613230329775">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="69" key="MergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1613230329775" />
+    <state x="354" y="109" key="RollbackChangesDialog" timestamp="1613368800145">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="354" y="109" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1613368800145" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1613527833402">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1613527833402" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1613380358559">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-345.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1613380163926" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.713@0.23.1280.713" timestamp="1613380358559" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613038223823">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.800@0.0.1280.800" timestamp="1613038223823" />
+    <state x="453" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613230311633">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1613230311633" />
+    <state x="347" y="155" width="586" height="490" key="find.popup" timestamp="1613528119278">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="155" width="586" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1613528119278" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1613528013377">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1613528013377" />
+  </component>
+</project>
