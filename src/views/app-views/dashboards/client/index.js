@@ -1,5 +1,16 @@
 import React, { useState } from "react";
-import { Row, Col, Card, Table, Input, Menu, Avatar, Dropdown, Button, Space } from "antd";
+import {
+  Row,
+  Col,
+  Card,
+  Table,
+  Input,
+  Menu,
+  Avatar,
+  Dropdown,
+  Button,
+  Space,
+} from "antd";
 import { ClientsData } from "../default/DefaultDashboardData";
 import StatisticWidget from "components/shared-components/StatisticWidget";
 import DepositesWidegt from "../../components/courtsWidget";
@@ -11,12 +22,8 @@ import utils from "../../../../utils";
 
 const menu = (
   <Menu>
-    <Menu.Item>
-      View
-    </Menu.Item>
-    <Menu.Item>
-      Delete
-    </Menu.Item>
+    <Menu.Item>View</Menu.Item>
+    <Menu.Item>Delete</Menu.Item>
   </Menu>
 );
 
@@ -52,10 +59,12 @@ const tableColumns = [
     title: "View",
     dataIndex: "sms",
     key: "sms",
-    render:
-      () => <Dropdown overlay={menu} trigger={['click']} placement="bottomLeft">
-        <img alt="sms" src={smsLogo} style={{ cursor: 'pointer' }} />
-      </Dropdown>,
+    render: () => (
+      // overlay={menu}
+      <Dropdown overlay="" trigger={["click"]} placement="bottomLeft">
+        <img alt="sms" src={smsLogo} style={{ cursor: "pointer" }} />
+      </Dropdown>
+    ),
   },
 ];
 
@@ -93,14 +102,13 @@ const SalesDashboard = () => {
             value={"Ekam Sports Areana"}
             status={null}
             subtitle={"elm.subtitle"}
-            onClick={() => { }}
-            btnTitle='Change Court'
+            onClick={() => {}}
+            btnTitle="Change Court"
           />
         </Col>
         <Col xs={24} md={15}>
           <DepositesWidegt />
         </Col>
-
       </Row>
       <Row gutter={16}>
         <Col xs={24} sm={24} md={24} lg={16}>
